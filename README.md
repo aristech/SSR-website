@@ -254,10 +254,6 @@ npm run dev
 
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 - [React](https://reactjs.org/docs/getting-started.html) - The javascript framework used
