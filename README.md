@@ -1,4 +1,4 @@
-# Project Title
+# SSR Website
 
 Simple Server Side Rendered website using React, Next.js, Material UI
 
