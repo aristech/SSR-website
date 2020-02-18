@@ -27,6 +27,11 @@ cd into Project DIR
 npm install
 npm run dev
 ```
+### Running on IIS 
+```
+https://dev.to/petereysermans/hosting-a-node-js-application-on-windows-with-iis-as-reverse-proxy-397b
+```
+Entry point is server.js
 
 ### Break down Project Files
 
